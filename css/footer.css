@@ -160,7 +160,7 @@ footer{
   
   }
   
-  @media(max-width: 414px) {
+  @media(max-width: 375px) {
 .rowx{
     visibility: hidden;
 }
