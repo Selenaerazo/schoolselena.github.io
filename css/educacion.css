@@ -260,7 +260,7 @@
 
 /*///////////////////////////////////vista smartphone////////////////////////////////////////////////*/
 
-@media (max-width: 414px){
+@media (max-width: 375px){
     .tituloeducacion{
   
         margin-top: 10px;
