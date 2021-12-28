@@ -165,7 +165,7 @@ color: rgb(0, 0, 0);
     .historia {
       background: linear-gradient(rgba(231, 230, 230, 0) 0%, rgba(255, 255, 255, 0) 100%), url("../Imagenes/historia.png");
       background-position-y: center;
-        height: 1000px;
+        height: 1200px;
         width: 100%;
       margin-top: 0px;
         background-repeat: no-repeat;
