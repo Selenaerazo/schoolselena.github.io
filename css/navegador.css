@@ -60,7 +60,7 @@ nav {
       }
   }
   
-  @media(max-width: 414px) {
+  @media(max-width: 375px) {
     nav{
         font-size: 11px;
         height: 60px;
