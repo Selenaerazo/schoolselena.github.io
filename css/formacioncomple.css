@@ -425,7 +425,7 @@
 
 /*///////////////////////////////////vista smartphone////////////////////////////////////////////////*/
 
-@media (max-width: 414px){
+@media (max-width: 375px){
   .contieneacomp{
     flex-direction: column;
    
