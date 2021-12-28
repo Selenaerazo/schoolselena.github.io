@@ -81,7 +81,7 @@
     }
 }
 
-@media(max-width: 414px) {
+@media(max-width: 375px) {
     .titulo_portada h2{
         font-size: 35px;
         font-weight: 700;
