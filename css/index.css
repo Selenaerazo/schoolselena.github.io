@@ -71,7 +71,7 @@ p{
 }
 }
 
-@media(max-width: 414px) {
+@media(max-width: 375px) {
   .flotante2{
     position: fixed;
     bottom: 20px;
@@ -161,7 +161,7 @@ color: rgb(0, 0, 0);
   
   }
   
-  @media(max-width: 414px) {
+  @media(max-width: 375px) {
     .historia {
       background: linear-gradient(rgba(231, 230, 230, 0) 0%, rgba(255, 255, 255, 0) 100%), url("../Imagenes/historia.png");
       background-position-y: center;
@@ -307,7 +307,7 @@ text-align: center;
   
 }
 
-@media(max-width: 414px) {
+@media(max-width: 375px) {
   .carousel-caption {
     position: absolute; 
     right: 16%;
