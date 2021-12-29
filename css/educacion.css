@@ -14,7 +14,7 @@
 .parallas{
     width: 100%;
     height: 90vh;
-    background-image: url("../Imagenes/gradosdisponibles1.png");
+    background-image: url("./Imagenes/gradosdisponibles1.png");
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
