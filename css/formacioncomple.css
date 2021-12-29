@@ -21,7 +21,7 @@
 .parallaz{
   width: 100%;
   height: 90vh;
-  background-image: url("../Imagenes/complementaria.png");
+  background-image: url("./Imagenes/complementaria.png");
   background-position: center;
   background-size: cover;
   background-repeat: no-repeat;
@@ -58,7 +58,7 @@
   }
   
   .acompañamiento{
-    background:  url("../Imagenes/desarrolloyprogra.png") ;
+    background:  url("./Imagenes/desarrolloyprogra.png") ;
     height: 400px;
     width: 33%;
     background-repeat: no-repeat;
@@ -91,7 +91,7 @@
 
 
   .acompañamiento2{
-    background:  url("../Imagenes/mathematics.gif") ;
+    background:  url("./Imagenes/mathematics.gif") ;
     height: 400px;
     width: 33%;
     background-repeat: no-repeat;
@@ -125,7 +125,7 @@
 
   
   .acompañamiento3{
-    background:  url("../Imagenes/sports.png") ;
+    background:  url("./Imagenes/sports.png") ;
     height: 400px;
     width: 33%;
     background-repeat: no-repeat;
@@ -159,7 +159,7 @@
 
 
   .acompañamiento4{
-    background:  url("../Imagenes/photo.png") ;
+    background:  url("./Imagenes/photo.png") ;
     height: 400px;
     width: 33%;
     background-repeat: no-repeat;
@@ -192,7 +192,7 @@
 
 
   .acompañamiento5{
-    background:  url("../Imagenes/electr.png") ;
+    background:  url("./Imagenes/electr.png") ;
     height: 400px;
     width: 33%;
     background-repeat: no-repeat;
@@ -225,7 +225,7 @@
 
 
   .acompañamiento6{
-    background:  url("../Imagenes/emprendimiento.png") ;
+    background:  url("./Imagenes/emprendimiento.png") ;
     height: 400px;
     width: 33%;
     background-repeat: no-repeat;
@@ -259,7 +259,7 @@
 
 
 .acompañamiento7{
-    background:  url("../Imagenes/edition.gif") ;
+    background:  url("./Imagenes/edition.gif") ;
     height: 400px;
     width: 33%;
     background-repeat: no-repeat;
@@ -292,7 +292,7 @@
 
 
 .acompañamiento8{
-    background:  url("../Imagenes/dance.png") ;
+    background:  url("./Imagenes/dance.png") ;
     height: 400px;
     width: 33%;
     background-repeat: no-repeat;
@@ -326,7 +326,7 @@
 
 
 .acompañamiento9{
-    background:  url("../Imagenes/sing.png") ;
+    background:  url("./Imagenes/sing.png") ;
     height: 400px;
     width: 33%;
     background-repeat: no-repeat;
