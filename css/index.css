@@ -82,7 +82,7 @@ p{
 
 /* historia*/
 .historia{
-    background: linear-gradient(rgba(231, 230, 230, 0) 0%, rgba(255, 255, 255, 0) 100%), url("../Imagenes/historiablanco.png");
+    background: linear-gradient(rgba(231, 230, 230, 0) 0%, rgba(255, 255, 255, 0) 100%), url("./Imagenes/historiablanco.png");
   background-position-y: center;
     height: 700px;
     width: 100%;
@@ -126,7 +126,7 @@ color: rgb(0, 0, 0);
   @media(max-width: 810px) {
   
     .historia {
-      background: linear-gradient(rgba(231, 230, 230, 0) 0%, rgba(255, 255, 255, 0) 100%), url("../Imagenes/historiablanco.png");
+      background: linear-gradient(rgba(231, 230, 230, 0) 0%, rgba(255, 255, 255, 0) 100%), url("./Imagenes/historiablanco.png");
       background-position-y: center;
         height: 900px;
         width: 100%;
@@ -163,7 +163,7 @@ color: rgb(0, 0, 0);
   
   @media(max-width: 414px) {
     .historia {
-      background: linear-gradient(rgba(231, 230, 230, 0) 0%, rgba(255, 255, 255, 0) 100%), url("../Imagenes/historiahabano.png");
+      background: linear-gradient(rgba(231, 230, 230, 0) 0%, rgba(255, 255, 255, 0) 100%), url("./Imagenes/historiahabano.png");
       background-position-y: center;
         height: 1200px;
         width: 100%;
@@ -351,7 +351,7 @@ text-align: center;
   width: 93%;
 position: relative;
 padding: 10px 20px 0px 30px;
-background: linear-gradient(rgba(161, 161, 161, 0.123) 0%, rgba(0, 0, 0, 0.151) 100%), url("../Imagenes/sofia-hernandez-pbUtosQ1kkU-unsplash.jpg");
+background: linear-gradient(rgba(161, 161, 161, 0.123) 0%, rgba(0, 0, 0, 0.151) 100%), url("./Imagenes/sofia-hernandez-pbUtosQ1kkU-unsplash.jpg");
 height: 580px;
 background-position-y: 20%;
 background-position-x:top;
